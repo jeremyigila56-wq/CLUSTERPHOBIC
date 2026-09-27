@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Clusterphobic",
+      "hasCanvas": false,
+      "bodyTextLen": 784,
+      "bodyTextHash": "20177787104d7769378540f26d5be2ae79e10963eb321af04d12a153a0148660",
+      "bodyTextPrefix": "CLUSTERPHOBIC CLUSTERED 15 open K This is a sample mind. Dump yo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Clusterphobic",
+      "hasCanvas": false,
+      "bodyTextLen": 658,
+      "bodyTextHash": "5611efae351eeba91aed5adeb0445f1dc45923ee92d776a55ac602c5ce6d93fa",
+      "bodyTextPrefix": "CLUSTERPHOBIC CLUSTERED 15 open This is a sample mind. Dump your",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
